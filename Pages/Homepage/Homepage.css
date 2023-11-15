@@ -178,10 +178,11 @@ a {
 /* section3 */
 
 .sec3 {
-    height: 1078px;
+    height: auto;
     top: 954px;
     background: #3C1518;
     color: white;
+    padding-bottom: 80px;
 }
 
 .row1 {
@@ -255,7 +256,7 @@ a {
 
 .s3h {
     font-family: Inter;
-    font-size: 26px;
+    font-size: 25px;
     font-weight: 600;
     /* line-height: 31px; */
     letter-spacing: 0em;
@@ -265,7 +266,7 @@ a {
 
 .s3p {
     font-family: Poppins;
-    font-size: 12.9px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0em;
@@ -292,3 +293,52 @@ a {
 
 
 /* section4 */
+.sec4 {
+    height: 884.36px;
+    top: 2032px;
+    background-image: url('../../image/ux-indonesia-qC2n6RQU4Vw-unsplash\ 1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+
+}
+
+.s4btn {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0.14em;
+    text-align: center;
+    background-color: #FE445C;
+    border: 0px solid #FE445C;
+    color: white;
+}
+
+.s4div1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.s4p1 {
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.s4p2{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: -30px;
+
+}
+
+/* section5 */
